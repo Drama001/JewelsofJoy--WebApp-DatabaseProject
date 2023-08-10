@@ -1,0 +1,8 @@
+ORDER TABLE
+
+ORDER ID
+CUSTOMER ID
+ORDERED Items 
+Quantity
+ITEM PRICE
+TOTAL item Price
